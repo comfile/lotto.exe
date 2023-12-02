@@ -6,7 +6,7 @@ This program is based on Korean lotto 6/45, made by only C.
 There are 3 mode in this game: single game mode, mock game mode, simulator mode.
 
 ## explanation
-Single mode is just like common lotto program. Just getting user`s numbers, and then comparting them how much numbers are matched with winning numbers. But, I made this program work repeatly if user input y when it ask.
+Single mode is just like common lotto program. Just getting user'`'s numbers, and then comparting them how much numbers are matched with winning numbers. But, I made this program work repeatly if user input y when it ask.
 
 Mock game mode is that user get money for buying lotto by inputing amount of cash, and then buy lotto. User can stop whenever they want, and then program would let you know if your business was benefit, or loss by comparing first given money and money after lotto.
 
